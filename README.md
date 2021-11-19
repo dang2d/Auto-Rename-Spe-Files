@@ -1,2 +1,2 @@
-# Auto-Rename-Spe-Files
-FIVI _ Auto Rename Spe Files
+# FIVI AutoIT Tool
+FIVI _ AutoIT Tool
